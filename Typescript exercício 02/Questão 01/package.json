@@ -1,0 +1,16 @@
+{
+  "name": "atividade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "author": "HalysonItallo",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.2"
+  }
+}
